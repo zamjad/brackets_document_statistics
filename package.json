@@ -1,0 +1,12 @@
+{
+    "name": "document_statistics",
+    "title": "Document Statistics",
+    "homepage": "https://github.com/zamjad/brackets_document_statistics",
+    "author": "Zeeshan Amjad",
+    "version": "0.0.1",
+    "engines": { "brackets": ">=0.16" },
+    "license": "MIT",
+    "description": "Display the statistics about current document`",
+    "categories": ["document","statistics"],
+    "keywords": ["statistics","text","document","plugin"]    
+}
